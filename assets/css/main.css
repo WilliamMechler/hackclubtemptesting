@@ -2601,11 +2601,11 @@ input, select, textarea {
 					}
 
 					#nav > ul > li.current a {
-						color:  #F06564;
+						color:  #fff;
 					}
 
 				#nav > ul > li.active a {
-					color:  #F06564;
+					color:  #fff4;
 				}
 
 				#nav > ul > li.active.current:before {
