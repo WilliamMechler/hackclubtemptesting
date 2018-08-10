@@ -2428,7 +2428,7 @@ input, select, textarea {
 		input[type="button"]:active,
 		button:active,
 		.button:active {
-			background-color: #1eb8fb;
+			background-color: #F06564;
 			color: #fff;
 		}
 
