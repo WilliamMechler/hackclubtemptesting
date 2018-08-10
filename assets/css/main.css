@@ -3337,3 +3337,8 @@ input, select, textarea {
 			}
 
 	}
+
+.hotfix{
+	display:table; 
+	margin:0 auto;
+}
